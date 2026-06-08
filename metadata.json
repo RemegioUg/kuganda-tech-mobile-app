@@ -1,0 +1,6 @@
+{
+  "name": "Kuganda Tech",
+  "description": "Agricultural fintech mobile application offering micro-loans and farm resources with offline-first capabilities for smallholder farmers in East Africa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
